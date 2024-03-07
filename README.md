@@ -35,12 +35,12 @@ python -u convnet.py --max_epoch 50 --optimizer_steps 100 --truncated_bptt_step 
 To perform the experiment on adversarial attacks
 ```
 cd ./attack
-python -u train_2.py
+python -u train.py
 ```
 To perform the experiment on GNN training
 ```
 cd ./gnn
-python -u main_2.py
+python -u main.py
 ```
 To perform the experiement on BERT finetuning, we use Cola as an example, the other datasets are similar
 ```
