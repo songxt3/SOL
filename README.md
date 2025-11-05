@@ -68,11 +68,6 @@ python -u MRPC_train.py -maxlen 64 --max_epoch 100 --updates_per_epoch 10 --opti
 
 ## Reference
 ```
-Wait update.
-```
-
-## Reference
-```
 @inproceedings{song2025generalizable,
   title={Generalizable Symbolic Optimizer Learning},
   author={Song, Xiaotian and Zeng, Peng and Sun, Yanan and Song, Andy},
